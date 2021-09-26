@@ -1,0 +1,25 @@
+ab-
+8
+17
+1 a - D 2
+1 b - D 5
+2 a a D 2
+2 b b D 2
+2 - - E 3
+3 a - E 4
+4 a a E 4
+4 b b E 4
+4 - - D 1
+5 a a D 5
+5 b b D 5
+5 - - E 6
+6 b - E 7
+7 a a E 7
+7 b b E 7
+7 - - D 1
+1 - - D 8
+4
+aabbaa
+abba
+aabb
+abbbba
